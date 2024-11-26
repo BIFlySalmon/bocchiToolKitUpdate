@@ -16,7 +16,7 @@ Electron框架 ~~（喜报，您的电脑又多了一个Chromium！）~~
 因为作者喜欢吉他英雄  
 ![beb62f687d4744b73865a57fbfba982bb21bd8f9](https://github.com/user-attachments/assets/101474ac-fcfa-4c0c-b825-1cd28543d8ef)  
 
-使用开源仓库：
+使用开源仓库：  
 https://github.com/stevenjoezhang/live2d-widget  
 https://github.com/fghrsh/live2d_api  
 https://github.com/nashaofu/screenshots  
