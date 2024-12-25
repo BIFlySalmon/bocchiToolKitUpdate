@@ -25,6 +25,8 @@ https://github.com/electron/electron
 https://github.com/sindresorhus/electron-store  
 https://github.com/megahertz/electron-log  
 https://github.com/electron-userland/electron-builder  
+https://github.com/electron-userland/electron-builder/tree/master/packages/electron-updater  
 https://github.com/ashtuchkin/iconv-lite  
 https://github.com/jorangreef/sudo-prompt  
 https://github.com/entropitor/dotenv-cli  
+https://github.com/FFmpeg/FFmpeg
